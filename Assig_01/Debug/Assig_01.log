@@ -1,0 +1,6 @@
+﻿  funcs.cpp
+  main.cpp
+C:\Users\User\OneDrive\Documents\GitHub\CS-303\CS-303\Assig_01\main.cpp(21,14): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\User\OneDrive\Documents\GitHub\CS-303\CS-303\Assig_01\main.cpp(62,15): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  Assig_01.vcxproj -> C:\Users\User\OneDrive\Documents\GitHub\CS-303\CS-303\Assig_01\Debug\Assig_01.exe
